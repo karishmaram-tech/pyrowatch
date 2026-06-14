@@ -1,0 +1,37 @@
+﻿# Credentials -- NEVER upload these
+.env
+
+# Training data and model weights -- too large for GitHub
+training/dataset/
+training/runs/
+runs/
+*.pt
+
+# Logs and screenshots
+logs/
+*.png
+screenshot_*.png
+multicam_screenshot_*.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Video files -- too large
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
