@@ -37,3 +37,6 @@ Thumbs.db
 desktop.ini
 
 training/training_log.txt
+
+# Allow screenshots folder PNGs (override the *.png rule above)
+!screenshots/*.png
