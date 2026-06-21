@@ -35,3 +35,5 @@ env/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+training/training_log.txt
